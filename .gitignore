@@ -1,1 +1,3 @@
 clister
+build/*
+*.sw*
